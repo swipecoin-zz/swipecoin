@@ -1,0 +1,4 @@
+swipecoin
+=========
+
+DO NOT USE!
